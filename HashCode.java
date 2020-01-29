@@ -1,5 +1,3 @@
-
-// Java program to find minimum number of denominations 
 import java.util.Vector; 
   
 public class HashCode 
