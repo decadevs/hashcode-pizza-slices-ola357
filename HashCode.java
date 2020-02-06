@@ -7,7 +7,7 @@ public class HashCode
     static int deno[] = {2,5,6,8}; 
     static int n = deno.length; 
   
-    static void findMin(int V) 
+  public static void findMin(int V) 
     { 
         // Initialize result  
         Vector<Integer> ans = new Vector<>(); 
